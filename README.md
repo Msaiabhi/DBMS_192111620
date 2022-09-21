@@ -16,3 +16,5 @@
          SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%206..txt)
   ## EXPERIMENT 7
           SELECT WITH VARIOUS CLAUSE-GROUP BY,ORDER BY,HAVING(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%207.txt)
+  ## EXPERIMENT 9
+           JOINS()
