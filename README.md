@@ -5,4 +5,6 @@
    DDL COMANDS PRIMERY KEY(https://github.com/Msaiabhi/DBMS_192111620/blob/main/primary%20key.sql)
    FORIGEN KEY(https://github.com/Msaiabhi/DBMS_192111620/blob/main/forigen%20key.txt)
 ## EXPERIMENT 3
-       DML COMAND INSERT,UPDATE()
+       DML COMAND INSERT,SELECT(https://github.com/Msaiabhi/DBMS_192111620/blob/main/dml%20comands.txt)
+## EXPERIMENT 4
+       DML COMAND UPDATE,DELETE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/dml%20comands.txt)
