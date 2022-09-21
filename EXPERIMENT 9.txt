@@ -1,0 +1,5 @@
+select p.name,p.price,c.first_name,c.last_name,o.order_time from product p
+join orders o on p.id=o.product_id
+join customers c on c.id=o.customer_id;
+select product.name,orders.order_time from orders
+inner join product on orders.product_id=product.id;
