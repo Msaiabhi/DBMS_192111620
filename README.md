@@ -19,4 +19,4 @@
   ## EXPERIMENT 9
            JOINS(https://github.com/Msaiabhi/DBMS_192111620/blob/main/EXPERIMENT%209.txt)
   ## EXPERIMENT 10
-           VIEW, INDEX,SEQUENCE ()
+           VIEW, INDEX,SEQUENCE (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2010%20.txt)
