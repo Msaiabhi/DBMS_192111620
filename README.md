@@ -8,3 +8,5 @@
        DML COMAND INSERT,SELECT(https://github.com/Msaiabhi/DBMS_192111620/blob/main/dml%20comands.txt)
 ## EXPERIMENT 4
        DML COMAND UPDATE,DELETE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/dml%20comands.txt)
+## EXPERIMENT 5
+        SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING()
