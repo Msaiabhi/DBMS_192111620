@@ -17,4 +17,6 @@
   ## EXPERIMENT 7
           SELECT WITH VARIOUS CLAUSE-GROUP BY,ORDER BY,HAVING(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%207.txt)
   ## EXPERIMENT 9
-           JOINS()
+           JOINS(https://github.com/Msaiabhi/DBMS_192111620/blob/main/EXPERIMENT%209.txt)
+  ## EXPERIMENT 10
+           VIEW, INDEX,SEQUENCE ()
