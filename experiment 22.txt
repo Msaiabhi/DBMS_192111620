@@ -1,0 +1,32 @@
+create database book_publishing_companey;
+use book_publishing_companey;
+create table book(
+      book_id int auto_increment primary key,
+      book_name varchar(20),
+      book_cost int,
+      published_year int,
+      author_name varchar(20)
+);
+create table author(
+     author_id int auto_increment primary key,
+     books_writen int ,
+     author_name varchar(30));
+create table comp(
+     comp_id int primary key,
+     comp_name varchar(30)
+     
+);
+insert into book
+values(1,'dream',150,2009,'abhinav'),(2,'engine trouble',200,2000,'mani'),(3,'Invisible Man',250,1987,'abdul kalam');
+insert into author
+values(1,20,'abhinav'),(2,15,'mani'),(3,40,'abdul kalam');
+insert into comp
+values(34,'manikanta_book_stals'),(55,'saveetha');
+select*from author;
+update author
+set author_id=20
+where author_id=1;
+select*from book;
+delete from book
+where book_id =2 ;
+select avg(book_cost) from book;
