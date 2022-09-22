@@ -1,0 +1,37 @@
+create database collage;
+use collage;
+create table student_info(
+       std_id int auto_increment primary key,
+       std_name varchar(30) ,
+       city varchar(30),
+       maths_marks int,
+       physics_marks int,
+	    chemistry_marks int,
+        gender enum('m','f'),
+        state varchar(20)
+
+
+);
+insert into student_info
+values(1,'sai','rjy',95,99,85,'m','ap');
+insert into student_info
+values(2,'mani','kakinada',99,93,87,'m','ap'),(3,'aditya','vadapalli',100,80,78,'m','ap'),(4,'maggi','kanchipuram',50,45,90,'f','tamil');
+select*from student_info;
+select*,
+   case
+WHEN (maths_marks+physics_marks+chemistry_marks)<100
+then 'fail'
+WHEN (maths_marks+physics_marks+chemistry_marks)>=100 and (maths_marks+physics_marks+chemistry_marks)<150
+then 'C'
+WHEN (maths_marks+physics_marks+chemistry_marks)>=150 AND (maths_marks+physics_marks+chemistry_marks)<200
+THEN 'B'
+WHEN (maths_marks+physics_marks+chemistry_marks)>=200 AND (maths_marks+physics_marks+chemistry_marks)<250
+THEN 'A'
+WHEN (maths_marks+physics_marks+chemistry_marks)>=250 AND(maths_marks+physics_marks+chemistry_marks)<300
+THEN 'S'
+END AS RESULTS
+FROM STUDENT_INFO;
+
+
+
+
