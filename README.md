@@ -17,7 +17,7 @@
   ## EXPERIMENT 7
           SELECT WITH VARIOUS CLAUSE-GROUP BY,ORDER BY,HAVING(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%207.txt)
    ## EXPERIMENT 8
-       SUB QUERIES()
+       SUB QUERIES(https://github.com/Msaiabhi/DBMS_192111620/blob/main/EXPERIMENT%208.TXT)
   ## EXPERIMENT 9
            JOINS(https://github.com/Msaiabhi/DBMS_192111620/blob/main/EXPERIMENT%209.txt)
   ## EXPERIMENT 10
@@ -25,11 +25,11 @@
    ## EXPERIMENT 11
          SIMPLE PROGRAM EXCERCISE USING CASE,IF,LOOP()
    ## EXPERIMENT 12
-         SIMPLE PROGRAMING EX USING REPEAT,WHILE()
+         SIMPLE PROGRAMING EX USING REPEAT,WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2012%20(2).txt)
    ## EXPERIMENT 13
-        TCL COMANDS COMMIT,ROLLBACK,SAVEPOINT ()
+        TCL COMANDS COMMIT,ROLLBACK,SAVEPOINT (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2013.txt)
    ## EXPERIMENT 14
-         DCL COMANDS ()
+         DCL COMANDS (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2014.txt)
    ## EXPERIMENT 15
           HIGH LEVEL PROGRAMING-PROCEDURE()
    ## EXPERIMENT 16
@@ -39,17 +39,17 @@
    ## EXPERIEMNT 18
         HIGH LEVEL PROGRAMING-TRIGGER()
    ## EXPERIEMNT 19
-        ()
+        (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2019.txt)
    ## EXPERIEMNT 20
         DATA BASE CONNECTIVITY USING JAVA AND MYSQL()
    ## EXPERIMENT 21
-     ()
+     (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2021.txt)
    ## EXPERIEMNT 22
-       CASE SENARIO BOOK PUBLISHING()
+       CASE SENARIO BOOK PUBLISHING(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2022.txt)
    ## EXPERIEMNT 23
-        CASE SENARIO GENERAL HOSPITAL()
+        CASE SENARIO GENERAL HOSPITAL(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2023.txt)
   ## EXPERIEMNT 24
-       CASE SENARIO FOR CAR RENTAL COMAPNEY()
+       CASE SENARIO FOR CAR RENTAL COMAPNEY(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2024.txt)
   ## EXPERIEMNT 25 
-        CASE SENARIO FOR CLASS PROGRESS()
+        CASE SENARIO FOR CLASS PROGRESS(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiemnt%2025.txt)
         
