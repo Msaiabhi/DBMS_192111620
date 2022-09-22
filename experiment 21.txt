@@ -1,0 +1,8 @@
+select fname,lname,bdate from employee
+where bdate> 20001025;
+select e.fname,e.lname,d.dname
+    from employee e
+    inner join department d
+    on e.dno=d.dno;
+    select fname,lname  from employee
+    where dno=5;
