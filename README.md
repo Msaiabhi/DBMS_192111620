@@ -31,19 +31,19 @@
    ## EXPERIMENT 14
          DCL COMANDS (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2014.txt)
    ## EXPERIMENT 15
-          HIGH LEVEL PROGRAMING-PROCEDURE()
+          HIGH LEVEL PROGRAMING-PROCEDURE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2015.txt)
    ## EXPERIMENT 16
           HIGH LEVEL PROGRAMING-FUNCTION()
    ## EXPERIMENT 17
-        SQL String Functions- REPEAT,REPLICATE()
+        SQL String Functions- REPEAT,REPLICATE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2017.txt)
 
    ## EXPERIEMNT 18
-        TCL Commands – COMMIT, ROLLBACk()
+        TCL Commands – COMMIT, ROLLBACk(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2018.txt)
 
    ## EXPERIEMNT 19
-        hrm database()
+        hrm database(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2019.txt)
    ## EXPERIEMNT 20
-        DATA BASE CONNECTIVITY USING mysql()
+        DATA BASE CONNECTIVITY USING mysql(https://github.com/Msaiabhi/DBMS_192111620/blob/main/xperiment%2020.txt)
    ## EXPERIMENT 21
        hrm database continuion()
      ## EXPERIEMNT 22
