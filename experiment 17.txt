@@ -1,0 +1,9 @@
+update product
+set price=4
+where price=3.50;
+commit;
+rollback;
+select*from product;
+insert into product
+values(6,'bru',5);
+commit;
