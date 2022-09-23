@@ -1,0 +1,23 @@
+mysql> create function calcincome(starting_value int)
+    -> returns int
+    ->
+    -> begin
+    ->
+    -> declare income int;
+    ->
+    -> set income = 0;
+    ->
+    -> label 1: while income <= 3000 do
+    -> set income = income + starting_value;
+    -> end while label 1;
+    ->
+    ->
+    -> return income;
+    ->
+    ->
+    -> end;//
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1: while income <= 3000 do
+set income = income + starting_value;
+end while label' at line 10
+mysql> label 1:while income <= 3000 do
+    ->
