@@ -25,9 +25,9 @@
    ## EXPERIMENT 11
          SIMPLE PROGRAM EXCERCISE USING CASE,IF,LOOP()
    ## EXPERIMENT 12
-         SIMPLE PROGRAMING EX USING REPEAT,WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%20%2012%20-3.txt)
+         SIMPLE PROGRAMING EX WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%20%2012%20-3.txt)
    ## EXPERIMENT 13
-        TCL COMANDS COMMIT,ROLLBACK,SAVEPOINT (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2013.txt)
+        TCL COMANDS SAVEPOINT (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2013.txt)
    ## EXPERIMENT 14
          DCL COMANDS (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2014.txt)
    ## EXPERIMENT 15
@@ -35,16 +35,18 @@
    ## EXPERIMENT 16
           HIGH LEVEL PROGRAMING-FUNCTION()
    ## EXPERIMENT 17
-        HIGH LEVEL PROGRAMING-CURSOR()
+        SQL String Functions- REPEAT,REPLICATE()
+
    ## EXPERIEMNT 18
-        HIGH LEVEL PROGRAMING-TRIGGER()
+        TCL Commands – COMMIT, ROLLBACk()
+
    ## EXPERIEMNT 19
-        (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2019.txt)
+        hrm database()
    ## EXPERIEMNT 20
-        DATA BASE CONNECTIVITY USING JAVA AND MYSQL()
+        DATA BASE CONNECTIVITY USING mysql()
    ## EXPERIMENT 21
-     (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2021.txt)
-   ## EXPERIEMNT 22
+       hrm database continuion()
+     ## EXPERIEMNT 22
        CASE SENARIO BOOK PUBLISHING(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2022.txt)
    ## EXPERIEMNT 23
         CASE SENARIO GENERAL HOSPITAL(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2023.txt)
