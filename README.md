@@ -25,7 +25,7 @@
    ## EXPERIMENT 11
          SIMPLE PROGRAM EXCERCISE USING CASE,IF,LOOP()
    ## EXPERIMENT 12
-         SIMPLE PROGRAMING EX USING REPEAT,WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2012%20(2).txt)
+         SIMPLE PROGRAMING EX USING REPEAT,WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%20%2012%20-3.txt)
    ## EXPERIMENT 13
         TCL COMANDS COMMIT,ROLLBACK,SAVEPOINT (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2013.txt)
    ## EXPERIMENT 14
