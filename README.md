@@ -23,7 +23,7 @@
   ## EXPERIMENT 10
            VIEW, INDEX,SEQUENCE (https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%2010%20.txt)
    ## EXPERIMENT 11
-         SIMPLE PROGRAM EXCERCISE USING CASE,IF,LOOP()
+         SIMPLE PROGRAM EXCERCISE USING CASE,IF,LOOP(https://github.com/Msaiabhi/DBMS_192111620/blob/main/case%20experiment%2011.txt)
    ## EXPERIMENT 12
          SIMPLE PROGRAMING EX WHILE(https://github.com/Msaiabhi/DBMS_192111620/blob/main/experiment%20%2012%20-3.txt)
    ## EXPERIMENT 13
